@@ -1,7 +1,7 @@
 
-🌱 I am a backend software engineer and a , I just graduated from ALX-Africa and I am still expanding my knowledge in coding and development. This README.md is about me. Typically, I wouldn’t write something like this, but it’s part of the GitHub Student Pack registration process. I might remove it afterward, or I might forget to. Either way, enjoy reading about me:
+🌱 I am a backend software engineer and a  full stack web developer, I just graduated from ALX-Africa and I am still expanding my knowledge in coding and development. 
 
-My name is displayed on my profile. I am respectful to everyone because I am well-trained.  I show respect to everyone regardless of their status and age. I can be stubborn, but in a constructive way. This stubbornness has helped me a lot in the coding and development field, pushing me beyond my limits when I could have easily given up. So, in a nutshell, I am not a regular programmer; I am a lazy yet productive one. If you have me in your team or organization, consider yourself lucky because my kind is rare.
+I am respectful to everyone because I am well-trained. I show respect to everyone regardless of their status and age. I can be stubborn, but in a constructive way. This stubbornness has helped me a lot in the coding and development field, pushing me beyond my limits when I could have easily given up. So, in a nutshell, I am not a regular programmer; I am a lazy yet productive one. If you have me in your team or organization, consider yourself lucky because my kind is rare.
 
 Do I know evverything to distinguish myself from other programmers? No. I am still a new in this field, even though I have been learning on my own since 2019. Despite my limited knowledge, I have achieved numerous things. What sets me apart is my ability beyond coding. it’s a special ability that is useful not only in programming but in life in general.
 
